@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "hardcoreevent.aternos.me ",
+    "ip": "hardcoreevent.aternos.me",
     "port": 22715,
     "version": "",
     "try-creative": false
